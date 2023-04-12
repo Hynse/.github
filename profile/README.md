@@ -1,12 +1,8 @@
-## Hi there 👋
+Welcome to the Hynse SMP GitHub organization. Our goal is to provide a high-performance vanilla experience for all players. We believe that the vanilla experience is the most authentic and enjoyable way to play Minecraft, and our server is designed with that in mind.
 
-<!--
 
-**Here are some ideas to get you started:**
+## About Us
+We are a community of Minecraft enthusiasts who believe in the power of vanilla gameplay. Our server is open to anyone who wants to contributor. We welcome developers of all skill levels, whether you are a veteran developer or a newcomer to the codding.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Getting Started
+Find bug / Translate / Pull request
