@@ -1,4 +1,4 @@
-#Welcome 
+# Welcome 
 Our goal is to provide a high-performance vanilla experience for all players. We believe that the vanilla experience is the most authentic and enjoyable way to play Minecraft, and our server is designed with that in mind.
 
 
